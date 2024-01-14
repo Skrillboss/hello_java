@@ -1,0 +1,3 @@
+interface Rotable {
+    void rotar();
+}
