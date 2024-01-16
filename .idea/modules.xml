@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/EjercicioAjedrez/EjercicioAjedrez.iml" filepath="$PROJECT_DIR$/EjercicioAjedrez/EjercicioAjedrez.iml" />
       <module fileurl="file://$PROJECT_DIR$/EjercicioPokemon/EjercicioPokemon.iml" filepath="$PROJECT_DIR$/EjercicioPokemon/EjercicioPokemon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
